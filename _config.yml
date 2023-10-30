@@ -13,7 +13,8 @@ github:
 # repository_url: https://example.github.io
 
 # ---------------------------------------------------
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
 # remote_theme: Huxpro / huxpro.github.io
 # remote_theme: cotes2020 /jekyll-theme-chirpy
 # remote_theme: mmistakes / minimal-mistakes
