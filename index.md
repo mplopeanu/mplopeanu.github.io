@@ -31,6 +31,8 @@ Aici sunt câteva dintre proiectele mele de dezvoltare web:
     -   Descriere: [O scurtă descriere a proiectului]
     -   Tehnologii utilizate: [Exemplu: HTML, CSS, JavaScript]
     -   [Includerea unor capturi de ecran sau link-uri către proiect, dacă este posibil]
+  
+      
 2.  **Nume Proiect 2**
     
     -   Descriere: [O scurtă descriere a proiectului]
