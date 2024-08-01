@@ -1,5 +1,7 @@
 # [Numele Tău]
 
+[Prezenta aici](/prezenta.md)
+
 ![Total Station Image](/assets/img/ts.png)
 
 [Afla mai multe aici](about.md)
